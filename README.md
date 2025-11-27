@@ -1,6 +1,6 @@
 ## Tweet processing : cleaning tweets and classify them
 
-Welcome to this repository, which aims to show how we can process tweets. First, we clean the data and then process it using **Logistic Regression** and **RNN**.
+This repository demonstrates how sentiment analysis can be performed on French political discourse. We use a dataset of French tweets published by French politicians, specifically focused on the topic of immigration. The corpus is sourced from the Olindinum corpora, a valuable resource for linguistic and social research.
 
 ## 📝 Project description
 
